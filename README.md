@@ -1,9 +1,10 @@
 🔐 Authentication and Security
+
 In the next projects, I explored various levels of authentication and security measures, building up to OAuth. Here are the key concepts covered in this first part:
 
-**1.Basic Authentication (Email and Password) The simplest form of authentication. Implementation details: storing passwords securely.
+1.**Basic Authentication (Email and Password) The simplest form of authentication. Implementation details: storing passwords securely.
 
-**2.Encryption and Hashing
+2.**Encryption and Hashing
     Understanding the differences between encryption and hashing.
     Implementation of secure password hashing algorithms.
 
